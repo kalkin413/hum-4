@@ -63,3 +63,15 @@ romantic art as a symbolic representation of a shared human experience, mix of e
 Walter benjamin: There is no document of civilization whichi s not at the same time a document of barbarism.
 - all progress is a double edged sword
 - challenge to the narrative that all history is progress
+
+The Consumer Revolution
+- Europe's population surged by 20%
+- Colonialism brought wealth and consumer goods
+- More disposable income and purchasing power
+- Expansion of the middle class
+- Nonessential goods (cofeee, books) became necessities of life
+- more leisure time = music, art, literature
+
+Dualistic nature of pgoress; interplay between heights of civilization (mozart), lows of barbarism (slavery)
+
+think about what kind of world enlightenment thinkers lived in, what it would be like to listen to mozard while knowing there's horrofic inequality in the world
