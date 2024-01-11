@@ -75,3 +75,45 @@ The Consumer Revolution
 Dualistic nature of pgoress; interplay between heights of civilization (mozart), lows of barbarism (slavery)
 
 think about what kind of world enlightenment thinkers lived in, what it would be like to listen to mozard while knowing there's horrofic inequality in the world
+
+progress often happens at the same time as horrendous acts of cruelty and brutality
+
+*The Interesting Narrative of the Life of Olaudoh Equiano*
+- Written by himself
+
+Slave labor transforms european economy, not the first time slavery was a thing but the first time that it was tied to ethnicity and on such a massive scale
+
+Arguments for Abolition of Slavery
+- Humanitarianism and empathy
+    - Expose the inhumanity of the slave trade through narratives that affect the reader's empathy
+    - Equiano's catalogue of cruelties (ch2, 5)
+    - physical, physocological, and sexual violence
+- Christianity
+    - incompatible with Golden rule
+    - Africans akin to Jews in Genesis (19)
+    - Universal human brotherhood; Africans are descendants of Abraham and his concubine Keturah (20-21)
+    - Corruption of Christian virtues with greed
+    - Desire for consumer goods in europe leads to the greed that drives slave dealers
+- Enlightenment Ideals
+    - People have natural rights
+    - These must be exercised in liberty, not bondage
+- Economics
+    - Slavery is not profitable compared to wage-labor
+    - Slavery is not profitable when slaves are maltreated; health and happiness of a lsve directly benefits the master
+- History & "White Man's Burden"
+    - Europeans justify slavery by claiming that Africans are uneducated and primitive. Equiano asks were not Europeans once the same?
+    - Solution is not enslavement but education
+- Science
+    - Human differences are a result of geography not morality
+    - He wants to end prejudice based on skin color
+
+He is assimilated into the European worldview and sometiems advances otherwise racist views (White man's burden, racial hierarchy, just treat slaves better/we dont need to abolish it, AFricans as "countrymen") 
+He exhibits the psychology of a victim of abuse.
+
+Intratribal slave trade
+- warefare/kidnapping: trade is driven by greed (sin)
+
+International Slave Trade
+- "first passage" forced march of Africans from their homes to the trading ports
+- "middle passage" three month crossing of the atlantic, forced to eat but tortured with hunger
+- "final passage" transport to the plantations where slaved would work, expected to learn their master's languages and given new names
