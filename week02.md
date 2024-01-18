@@ -166,5 +166,121 @@ Philosohpical optimism (systematic philosphy)
 - on a political level, we passively accept human suffering as necessary to human progress
 
 The enlightemtemnemtn solution to how evil can exist in presence of an omnipresent God is Deism
-- the beleif in a higher power or creater that set the natural laws in motion but does not intervene in human affairs or reveal itself through revelations
+- the belief in a higher power or creater that set the natural laws in motion but does not intervene in human affairs or reveal itself through revelations
 - God is not actively involved, creater of the clock
+- contrast to "there are just things we shouldn't know"
+
+- Voltaire worked closely with Mme du Chatelet
+    - she was known for writing the defininitive french translation for Newton's *Principles of Mathematics*
+
+Voltaire publishes *Candide* anonymously to avoid being thrown baack into the Bastille
+
+Questions from *Candide*
+- How do we emerge from self-imposed immaturity? (Kant)
+- How do we apply Enlightenment ideals of reason and empiricism to the real world
+
+Style: comedic, fast-moving, erratic, fantastical; uses satire, irony, sarcasm, and absurdism
+
+Westphalia = "a paradise on earth"
+
+Manicheanism = "religious phil that posits two equally powerful forces: Good and Evil"
+
+The man of action is responsible for the resolution, not the two men of thought
+
+- "Candid" = truthful, straightforward, lacking bias
+- Latin *candidus* - "white" (pure, innocent)
+
+he is "open minded" or "eager to learn" but simultaenously he is impressionable and ignorant
+
+How will he emerge out of this immaturity?
+
+Leibniz
+- philosophical optimism
+- "we live in the best of all possible worlds" (Essays on Theodicy).
+
+Theodicy
+- Type of argument that reconciles the beleif in an *omni*-God with the problem of evil
+
+*Omni*-God
+- omniscient (all-knowing), omnipotent (all-powerful), omnibelevolent
+
+Problem of evil
+- question of how to reconcile the existence of evil and suffering with an *omni*-God
+
+attempt for philosophers to combine science and morality
+
+Possible solutions to the problem of evil (arguments of theodicy)
+- Christianity: what we perceieve as evil may not actually be evil. God knows best; we should not question God's judgement (Book of Job)
+- Augustine and free will: evil is not something that exists in and of itself; it is a distortion of good. Humans cause bad things to happen by misusing their free willl
+- Martin the Manichean: there is a being responsible for evil in the world
+- Philosophical Optimism: there is sufficient reason to suggest that evil exists for the greater good because "we live in the best of all possible worlds"
+
+Leivniz's Theodicy: argument for optimism
+1. God is perfect and must have sufficient reason for doing things
+2. What he creates that is separate from him must be imperfect to some degree because only God is perfect
+3. Therefore, the natural world, which he created cannot be perfectly good.
+4. Although he cannot create a perfect world, he must create the "Best of all possible worlds."
+    - God is an optimizer
+5. There is sufficient reason to suggest that "all is for best" in our world.
+
+His logic might be sound in theory, but Voltaire is interested in whether its practical to apply it to the real world
+- practice over theory
+
+Pangloss is a caricature of Leibniz
+- "pangloss" means "all language" or "all talk"
+- stays in a state of "self-imposed immaturity"
+    - refuses to yield his philosphy of optimism despite evidence to the contrary
+- completely ignores global and personal tragedies
+- why does he not give up his phil?
+    - gives you a sense of control over life
+    - the world is not chaos. it is full of meaning, because everything has meaning
+
+Jacques the "worthy" Anabaptist
+- critique against religious intolerance?
+- would have been persecuted by both Protestants and Catholics
+- his theodicy is like that of Augustine and free will; humans are the ones responsible for bringing evil into this world
+- Pangloss: "Lisbon harbour had been created expressly so that the Anabaptist would be drowned in it" (12)
+    - not only is it absurd, it is not practical
+    - not only do we accept human suffering, we stop ourselves from preventing it
+
+Implications of optimisim in the real world
+- it is not a practical philosophy
+1. consolation
+    - provides false sense of comfort
+    - allows us to avoid confronting realities; living in a world of denial or delusion
+2. irresponsible
+    - rationalizes human suffering as for the best
+    - leads to passive acceptance of suffering
+3. humanitarian objection
+    - suffering is real but not necessary
+    - humans have a duty to reduce suffering not explain, deny, or accept it
+
+"Emergence from self-imposed immaturity. immaturity is the inability to use one's understanding without guidance from another" (Kant)
+- passive acceptance or reliance on external authority
+- conformity and submission to established norms due to the absence of individual reasoning
+- stagnation in personal and intellectual development due to preference for dogma over critical reasoning
+- unwillingness to adapt or revice one's views in the face of empirical evidence or new information
+- limited ability to empathise with diverse perspectives due to a narrow worldview
+
+What idealogical systems and institutions keep us "immature" acccording to Voltaire?
+- arrogant aristocracy certain of its natural superiority (ch26)
+- hypocritical and exploitative religious institutions (too many to list)
+- Religious fervor, superstion, ritual (autoe-da-fe, or act of faith, carried out by Inquisition as a public penance - chapter 6)
+- military zeal (officers cannibalize the old woman's buttocks to avoid abanding their post - chapter 12)
+- corrupt judicial systems (Candide attempts to get justice after robed by Dutch priate, magistrate fines him for speaking too loudly - ch19)
+- intellectual arrogance (Parisian salons - chapter 22 & pococurante -- chapter 25)
+- **dogmatic idealogy: optimism (pangloss) & pessimism (martin)**
+- **objectification of women**
+- **colonialism and slavery**
+
+bold: systems that keep our minds enslaved
+
+what worldviews prevent us from actually maturing and using our reason independently?
+
+Martin the Manichean with "nothing to hope for"
+- cynical view of human nature
+- remains reluctant to change his philosophy
+- pessimism is a consolation, also makes him irresopnsible and prevents him from helping people
+- his pessimism is proven wrong thoughout the text, just like optimism
+- can not replace optimism
+
