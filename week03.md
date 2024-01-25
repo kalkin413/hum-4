@@ -105,7 +105,7 @@ two kinds of inequality
 - natural or physical
 - moral or political
 
-moral inequality os socially constructed difference (not biological or natural)
+moral inequality is socially constructed difference (not biological or natural)
 - moral worth that we ascribe to people based on our perception of difference
 - artificial construct that impacts how we think of ourselves (in comparison to others), our moral value (in comparison to others), and our social entitlements (in comparison to others)
 
@@ -129,3 +129,83 @@ Why is inequality so bad?
 - inequality is socially bad because it leads to abuse
     - those with opportunity continue to profit at the expense of those without; those with power use politics for private interest
     - "upon considering human society ... it seems, at first to display only the violence of powerful men and the oppression of the weak" (11)
+
+We tend to reward people we think are smart or good, we care about practicality but dont consider whats morally good
+
+response to voltaire's poem on lisbon:
+- the fundemantal problem with society is that we have become so disconnected form ourselves, from who we are, from what we really want, that we have lost touch with ourselves
+- we are preoccupied with property and appearance and estraned from what really matters - ourselves
+
+The Argument: A hypothetical history
+1. Human beings do not act according to "specific and invariable principles"
+    - we are a grotesque contrast between passion that beleives it is able to reason and understanding in a state of delirium
+        - we are passoinate, ruled by emotions, we delude ourselves to think we are rational by nature and not emotional
+        - emotions consistently overtake our reason
+2. the more we progress, the mroe we get away from our natural selves (self-estrangement), making it difficult to truly know who we are
+    - the more we accumulate new knowledge ... it is by virtue of studying man that we have made ourselves incapable of knowing him
+3. humans were equal in the state of nature
+4. humans underwent a secular fall ("paradise lost")
+5. fall from state of nature occurred because of the development of reason
+    - reason distorted human nature
+6. Fall led to a change in values: egalitarian innocence -> vanity and inequality
+    - in state of nature, we recognized differences but we did not attach moral worth to edifference
+    - in society, we become obssessed with difference and began to attach moral judgements to difference
+7. Society and politicla order institutionalized vanity and inequality by establishing and authorizing private property
+    - property is used as evidence of our moral value
+8. positive law superseded and perverted natural law
+    - we live in an artifical reality
+9. being so far fremoved from our natural self is the source of our misery
+    - our concept of ourselves is a product of society not genuine reflection on our nature
+10. To understand the origin of our misery and how to get back to ourselves, we must separate what is "original from what is artifical" (7).
+
+### State of Nature (Part 1)
+- "State of nature" is a state where are are no structures that officially limit human freedoms. It is a rhetorical device used by political theorists to consider what life would be like without government
+- "Natural Law" (unshakeable base): syste of law based on principles or truths of "nature" beleived ot govern the cosmos and nhuman beings because of divine creation
+- Positive Law ("mound of shifting sand"): Rational system of law created through legislation and enacted by humans
+
+The "natural man" was ...
+- living dispersed among the animals and oeperating on purely animal functions
+- dependent on strength of body not mind
+- desires only what is necessary and easily satisfied
+- not reasonable but sentient
+
+The "sentient man" was driven by two sensations
+1. self-preservation
+2. compassional (pity)
+
+Implications:
+- we have the natural right to self-preservation
+- emotion not reason is our natural state.
+- we are by nature moral/good because we are compassionate (emotional)
+
+### The Fall (Part 2): Passage of time and chance create change ...
+- slow development of language
+- development of tools and mastery over the other animals
+- sense of pride in achievements and superiority over the other animals
+- formation of communities and rules of conduct
+- competition
+- emergence of abstract reasoning, e.g. ceonceps of rights, liberties, laws
+- Emergence of gender roles, families, division of labor
+
+Consequence #1: The "first yoke"
+- we convinced ourselves that our artificial needs are natural.
+- the development of tools, communities, division, of labor allowed for leisure time. In this leisure time, humans became to "obtain various kinds of conveneniences unknown to [our] forefathers
+- By focusing our energy on obtaining unnecessary "conveniences" beyond basic subsistence, we need enslave ourselves to what we think we need
+
+Consequence #2: Living in the gaze of Others
+- we became egocentric
+    - we began to seek public esteem and validation
+    - we developed self-love
+    - we compared ourselves to others
+    - new emotional categories emerged, such as vanity and contempt, shame an denvy (57)
+- by tying our self-esteem to self-comparison rather than self-knowledge, we enslave ourselves to the judgement of others
+
+Consequence #3: Reason Suppresses Compassion
+- we reasoned away our instinct
+- while in the state of nature, man will run to help his neighbor, reason prevents us from acting upon our feelings of compassion
+- By following our rationalizations and not our natural inclinations, we enslave ourselves to what we think we should do in order to maintain what we think we need and protect our image of who we think we are
+
+The "fallen man" is ...
+- now subjugated by a multitude of new needs
+- yoking ourselves to new needs is a source of our misery: new leavens produce compounds fatal to happiness
+- "most of our ills are of our own making and we could hav eavoided nearly all of them" by sticking to our nature
