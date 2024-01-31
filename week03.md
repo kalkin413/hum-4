@@ -187,6 +187,11 @@ Implications:
 - emergence of abstract reasoning, e.g. ceonceps of rights, liberties, laws
 - Emergence of gender roles, families, division of labor
 
+- desire for artificial needs; unecessary "conveniences"
+- desire for public esteem and unhealthy self-judgement
+- competition, rivalry
+- war, violence, cruelty
+
 Consequence #1: The "first yoke"
 - we convinced ourselves that our artificial needs are natural.
 - the development of tools, communities, division, of labor allowed for leisure time. In this leisure time, humans became to "obtain various kinds of conveneniences unknown to [our] forefathers
