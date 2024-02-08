@@ -77,3 +77,80 @@ declaration of independence as a list of reasons why colonists deserve to take b
 
 takes the ideas of the enlightenment and puts them into practice
 
+### Declaration of the RIghts of Man and the Citizen
+
+the eye of providence at the top of a pamphlet of the *Declaration of the Rights of Man and of the Citizen*
+
+rousseau: abuse of government and corruption of government
+
+conclusions
+- natural right to life, liberty, and happiness
+- men are equal by birht, nature and divine creation
+- governemnb by consenssus
+- gov must protect natural rights not remove them
+- sovereignty of the people for the people: public good (res publica)
+- human community is a political comunity
+- accountability of inidividual to self and community
+- tyrrany is grounds for change
+- responsibility of citizens to resist tyranny
+- solution to misery is a self-concious effort
+- phil only takes us so far before action becomes necessary
+
+### English Civil War
+
+Bill of Rights (1689)
+- limited the power of the monarchy
+- increased power of partliament
+- confirmed that monarchy is not above the law and could be tried for crimes like Charles I
+- Created the role of Prime Minister, an elected official who would enforce Parliamentary discipline
+    - First Prime Minister elected in 1721
+- Granted freedom of speech and the ability to petition the government for changes
+
+### John Locke
+- Political liberalism
+    - *Two Treatises of GOvernment*
+    - Human beings have rights indepdnent of government; governments cannot infinge on them
+- Philosophical empiricism
+    - *An essay concerning human understanding*
+    - Human mind is a blank slate at birth; experience is the source of knowledge
+
+Constituional monarchy
+
+protestant succession: only a proteststant can ascend throne
+
+civil liberty: freedom from arbritary interference in one's pusuits by other individuals or governments
+
+economic expansion: of england into the americas
+
+Religious toleration
+- Helped to draft The Fundamental Constitutions for the
+Government of Carolina (1669), which guaranteed freedom
+of religion
+
+Political liberalism
+- governments are uathorized by the consesnt of the political community to protect individual liberty and promote the common good
+
+Government: Collective of institutions, structures, and
+individuals that have the authority to make and enforce laws.
+
+Political community: Citizens in a civil society.
+
+Liberty: “Social and political freedoms which are considered to
+be the entitlement of all members of a community” (OED).
+
+Common good: Collective well-being and interests of the political community
+
+questions
+1. How should government be structured?
+2. How does the political community come into being and where does it derive its power?
+3. What is liberty? What rights or freedoms are included in liberty? Who has the authority to limit rights?
+4. What is the common good and who determines it?
+
+natural liberty: state of nature
+
+liberty of man society is to free and not subject to the will of another man
+- the restrictions you face are those you consent to
+
+slavery to locke is absolute monarchy
+- slavery proceeds from "the state of war continued between a lowful conquerror and a captive"
+
