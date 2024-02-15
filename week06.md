@@ -86,11 +86,13 @@ Labor Theory of Value
 
 Two-step social contract
 - state of nature -> civil society (political community) -> commonwealth (government)
+- government preserves social good by sintitutionalizing property that we bring out of the state of nature.
+- we give up law-making and law-enforcing power for the preservation of property
 
-### How do we wenter social contract
+### How do we enter social contract
 1. civil society (political community)
     - everyone has to consent to exit the state of nature and enter civil society
-2. commonwealth (government)
+2. civil state (commonwealth)
     - majority has to consent to create this
 
 Objection: is contract really a choice? we are all born under governemnt!
@@ -99,5 +101,105 @@ Objection: is contract really a choice? we are all born under governemnt!
         - "Every Man, that hath any possession or enjoyment, of any part of the dominions of any government, doth thereby give his *tacit consent*, and is far forth obliged to obedience to the laws of the governmeent"
         - if we "enjoy" anything the government procides, we tacitly consent to it
 
+The state should have two branches
 
-`
+### Legislative: Law making
+1. the legislative is the **foundation of government**. it must be established before any othe rlaws are passed
+    - U.S. constitution, 1789, Bill of rights, 1791
+    - In France, they try to create law before they create government to protect that law. THe gov doesn't survive and their revolution fails. This is flipped in the US, where they follow a Lockean proression. First, the legislative branch is established in the constitution and the bill of rights comes after
+2. Legistlative power is to govern even the legislative itself
+    - legislative authority is subject ot the laws it enacts unlike an absolute monarch
+3. Legislative power supports the common cood. Its duty is to preserve society and every person in it
+4. Every member of society must abide (be obedient) to the laws of legislative.
+    - Obedience vs. slavery (submission to arbitrary will)
+5. No single entity may challenge the legislative by passing laws of their own.
+    - “Nor can any edict of anybody else, in what form so ever conceived, or by what power so ever backed, have the force and obligation of a law which has not its sanction from that legislative” (§134).
+6. Legislative authority is derived from the people
+7. It is the joint power of every memeber of society given up to a person or assembly. It represents everyone.
+
+Authority vs Power
+- authority is granted by by official means so it is power that is legitimized
+- power can come from might or manipulation not necessarily consent
+
+Sovereignty
+- supremem power because it refers to a government's monopoly on its ability to govern its own people
+- no one else can tell the state what to do in its own territory
+
+In a civil state. The state has authority. it is vested with political power by the community, but power ultimately lies with the people so they can take the authority away from the state. Therefore, sovereignty lies with the people; they vest power to the state so it is people that govern people. people have final say over authority
+
+### Executive: Law-enforcing
+1. Execution of the laws of the legislative
+    - always in session, even though the legislative isnt always
+2. When there are gaps in the law ("it is silent") then the executive must use prerogative for the common good in the "spirit of law"
+     - we don't have laws for everything
+     - prerogative is "the power of doing public good without a rule"
+     - executaive prerogative can be used until legislative can conveniently be assembled
+     - eventually, frequency of this should decrease as more laws are creates
+
+To him, the executive is the judicial branch. Even today, we sort of have this dual function since the president is the one who assigns judges
+
+Reistance and dissolution of governement
+- it is the people's authority and right to resist their governement when "inconveniency is so great, that the majority feel it"
+- when the government is dissolved, the people who are still part of a civil society are free to reform and recreate a civil state
+
+It is possible to do this without a civil war/violence/bloodshed. See: The glorious revolution.
+
+Grounds for reistance: breach of contract
+- legislative or executive fails to protect life, liberty, and property of the people for arbitrary reasons (attempting ot benefit private will rather than common good)
+- then it culd be said that the legislative or executive has attempted to seize sovereignty from the people and reduce them from citizens to slaves (dissolve the politicla community)
+- once the government is no longer acting as a presenetitive of th epeople, , the government enters into state of war with the political community (civil state vs. civil society).
+- Thus, the people are “absolved from any further obedience” because “by this breach of trust they [the government] forfeit the power that the people had put into their hands” (§222).
+
+Reasons fo rdissolution: structural failure
+- failure of exeutive: when a single person or prince sets up his own arbitrary will in place of laws which are the will of the society
+    - when a "prince hinders the legislative from assembling in its due time"
+    - breaks the trust in the social contract, and that breach they are tried and executed
+- failure of legislative: when the electors or way of election are altered by "arbitrary power of othe prince" withotu the consent of hte people
+    - acts against the trust reposed in the legislative, when they endeavour to invade the property of the subject and to make themselves, or any part of the community
+
+Objections
+- doesn't the right to resist lay the ground for frequent rebellion?
+    - peple do not like change and are more likely to endure than resist
+    - occasional mismanagement is not grounds for resistance
+        - "long train of abuses"
+    - it is not the people that rebel; it is the governement
+        - it is the government that rebels against ht eauthority that was vested in them
+
+Conclusions
+- what is natural man like?
+    - natural man is rational and self-governing (free and sovereign)
+    - we don't give these up. we bring these with us into society
+- what natural rights do we have
+    - life, liberty, and property in both a state of nature and a civil state
+- we form political communities as a rational response to inconveienices of the state of nature
+- we form political communitites through tacit consent: social contract, step 1
+- political power is the right granted in contract that authorizes the holder ot make decisions for welfare of the political community
+ - majority authorizes governement by conent: social contract, step 2
+ - the purpose of governement is the good of mankind
+ - the authority of governement is the legislative an dexecutive authority to preserve property
+ - People have the right to resist, dissolve, and reform government as the body politic.
+
+## Women's Movements in the 18th Century
+
+libertas: Roman goddess of liberty
+- contrast to women being systematically denied their liberties at the same time
+- denied sovereignty
+- at this time women could only gain power through men
+
+Marianne: national personification of France
+
+On the dlecaration of rights and men, women are personificition of strenght and virtue
+
+also egalite
+
+Yet, there is a clear divide between what women ar eallowed to do in practice and these allegorical ideals
+
+### Olympe de Gouges
+- hoped to expose the failures of the french revolution, and was executed shortly after
+
+4. their sovereignty has been taken away, so according to Locke they have the right to rebel
+
+13. women contribute labor to things so they deserve to have the property to which they contribute their labor. that means women should also economically contribute to the state through taxes
+    - argues for economic independence
+
+
